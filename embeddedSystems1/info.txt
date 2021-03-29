@@ -1,0 +1,65 @@
+Address of Entry Point: 70457
+
+Section: .textbss 
+Virtual size: 65536
+Raw size: 0
+Virtual address: 4096
+Raw address: 0
+Characteristics: R W X C 
+
+Section: .text 
+Virtual size: 21278
+Raw size: 21504
+Virtual address: 69632
+Raw address: 1024
+Characteristics: R X C 
+
+Section: .rdata 
+Virtual size: 8249
+Raw size: 8704
+Virtual address: 94208
+Raw address: 22528
+Characteristics: R 
+
+Section: .data 
+Virtual size: 1464
+Raw size: 512
+Virtual address: 106496
+Raw address: 31232
+Characteristics: R W 
+
+Section: .idata 
+Virtual size: 2782
+Raw size: 3072
+Virtual address: 110592
+Raw address: 31744
+Characteristics: R 
+
+Section: .msvcjmc 
+Virtual size: 260
+Raw size: 512
+Virtual address: 114688
+Raw address: 34816
+Characteristics: R W 
+
+Section: .00cfg 
+Virtual size: 265
+Raw size: 512
+Virtual address: 118784
+Raw address: 35328
+Characteristics: R 
+
+Section: .rsrc 
+Virtual size: 1084
+Raw size: 1536
+Virtual address: 122880
+Raw address: 35840
+Characteristics: R 
+
+Section: .reloc 
+Virtual size: 1377
+Raw size: 1536
+Virtual address: 126976
+Raw address: 37376
+Characteristics: R discardable 
+
