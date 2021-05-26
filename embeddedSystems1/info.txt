@@ -1,4 +1,4 @@
-Address of Entry Point: 70457
+Address of Entry DataStructure.Point: 70457
 
 Section: .textbss 
 Virtual size: 65536
